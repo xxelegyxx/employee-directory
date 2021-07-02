@@ -1,0 +1,15 @@
+.Header {
+    margin: auto;
+    padding: 16px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.HeaderRow {
+    width: 100%;
+    margin: 50px auto 0px;
+    border: 1px solid #eee;
+    box-shadow: 0 1px 3px #ccc;
+    text-align: center;
+    height: 50px;
+}
