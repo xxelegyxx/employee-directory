@@ -21,7 +21,6 @@ To use this site for your own website or your client's website, follow these ste
     4. Save and deploy to your domain<br>
 
 ## :floppy_disk: Usage
-![screenshot of Horiseon site](assets/images/screenshot-2.png) <br>
 This site utilizes react to build a responsive employee directory. User can run `npm i` to install dependencies. 
 
 ## :card_index: Credits 
