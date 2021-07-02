@@ -1,4 +1,4 @@
-![](https://github.com/xxelegyxx/employee-directory/blob/main/public/Assets/Images/Screenshot.png)
+![](https://github.com/xxelegyxx/employee-directory/blob/main/public/Assets/Images/Screenshot.png) 
 
 # employee-directory
 
