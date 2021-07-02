@@ -5,10 +5,10 @@
 .Nav {
   width: 100%;
   margin: 16px auto;
-  border-bottom: 3px solid rgb(192, 226, 39);
+  border-bottom: 3px solid silver;
   padding: 40px;
   text-align: center;
-  background-color: lavender;
+  background-color: plum;
   color: white;
   font-weight: bold;
   font-size: 30px;

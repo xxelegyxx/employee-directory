@@ -50,7 +50,7 @@ class App extends Component  {
       <div className="App">
         <nav className="Nav">
           <p className="NavTitle">Employee Directory</p>
-          <p className="NavInstructions">Click on carrots to filter by heading, or use the search box to narrow your results.</p>
+          <p className="NavInstructions">Use the search box to narrow your results.</p>
         </nav>
 
         <input
