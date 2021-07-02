@@ -5,13 +5,6 @@
 ## :newspaper: Description 
 The following files contain the assets necessary to deploy an employee directory.
 
-## :bookmark_tabs: Table of Contents 
-
-* [Installation] (#installation)
-* [Usage] (#Usage)
-* [Credits] (#Credits)
-* [License] (#License)
-
 ## :computer: Installation 
 
 To use this site for your own website or your client's website, follow these steps: <br>
