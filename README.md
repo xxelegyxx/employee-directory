@@ -3,10 +3,10 @@
 # employee-directory
 
 ## :newspaper: Description 
-The following files contain the assets necessary to deploy an employee directory.
+The following files contain the assets necessary to deploy an employee directory. This site uses `node.js` and  `react` to create a dynamic employee directory.
 
 ## :computer: Installation 
-
+This site utilizes react to build a responsive employee directory. User can run `npm i` to install dependencies. <br>
 To use this site for your own website or your client's website, follow these steps: <br>
     1. Fork this repo <br>
     2. Create a local clone of your fork <br>
@@ -14,7 +14,7 @@ To use this site for your own website or your client's website, follow these ste
     4. Save and deploy to your domain<br>
 
 ## :floppy_disk: Usage
-This site utilizes react to build a responsive employee directory. User can run `npm i` to install dependencies. 
+User can use the searchbar to search employees by name. If user wishes to add new names, it can be done in the array in app.js
 
 ## :card_index: Credits 
 
