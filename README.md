@@ -2,6 +2,8 @@
 
 # employee-directory
 
+## link to deployed site https://jw-employee-dir.herokuapp.com/
+
 ## :newspaper: Description 
 The following files contain the assets necessary to deploy an employee directory. This site uses `node.js` and  `react` to create a dynamic employee directory.
 
