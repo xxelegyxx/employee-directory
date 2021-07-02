@@ -15,6 +15,9 @@ To use this site for your own website or your client's website, follow these ste
     3. Replace necessary items in array of app.js <br>
     4. Save and deploy to your domain<br>
 
+This site is built using React. To read more on how to use React for your own project, check out this link: https://reactjs.org/docs/getting-started.html
+
+
 ## :floppy_disk: Usage
 User can use the searchbar to search employees by name. If user wishes to add new names, it can be done in the array in app.js
 
